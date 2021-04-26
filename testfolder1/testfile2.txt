@@ -1,0 +1,17 @@
+
+-----------------how to make notes on the computer------------------
+
+
+first do the changes , then enter
+
+			git status , see the new changes to be made
+			
+			then
+			
+			git add .
+			
+			git commit -m " commit message"
+			
+			then
+			
+			git push orgin master  ---- this will push changes to the remote repository
